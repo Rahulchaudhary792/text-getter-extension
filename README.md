@@ -4,6 +4,6 @@ This Chrome Extension fetches the title of the currently active tab and displays
 <br>
 <h1>Commands:</h1>
 <br>
-git clone https://github.com/your-username/title-getter-extension.git
+git clone https://github.com/Rahulchaudhary792/text-getter-extension.git
 <br>
 cd title-getter-extension
